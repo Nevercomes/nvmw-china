@@ -1,3 +1,6 @@
+项目源地址：https://github.com/hakobera/nvmw.git
+源码修改参考：https://www.jianshu.com/p/26b9cd65d081
+
 **SORRY, nvmw is no longer maintained. If someone wants to keep maintained, contact me by [email](mailto://hakobera@gmail.com) or [twitter](https://twitter.com/hakobera).**
 
 Node Version Manager for Windows
